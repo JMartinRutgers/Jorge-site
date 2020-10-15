@@ -2,10 +2,13 @@
   "name": "jorge-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://jmartinrutgers.github.io/Jorge-site/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.20.0",
+    "echarts": "^4.9.0",
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -15,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,5 +36,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@reach/router": "^1.3.4",
+    "axios-mock-adapter": "^1.18.2",
+    "node-sass": "^4.14.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "sass-loader": "^10.0.3"
   }
 }
