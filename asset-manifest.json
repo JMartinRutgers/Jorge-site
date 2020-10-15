@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jorge-site/static/css/main.c8f6f6f7.chunk.css",
-    "main.js": "/Jorge-site/static/js/main.c2307389.chunk.js",
-    "main.js.map": "/Jorge-site/static/js/main.c2307389.chunk.js.map",
+    "main.js": "/Jorge-site/static/js/main.1ef9427a.chunk.js",
+    "main.js.map": "/Jorge-site/static/js/main.1ef9427a.chunk.js.map",
     "runtime-main.js": "/Jorge-site/static/js/runtime-main.9e376f7a.js",
     "runtime-main.js.map": "/Jorge-site/static/js/runtime-main.9e376f7a.js.map",
     "static/js/2.26904270.chunk.js": "/Jorge-site/static/js/2.26904270.chunk.js",
     "static/js/2.26904270.chunk.js.map": "/Jorge-site/static/js/2.26904270.chunk.js.map",
     "index.html": "/Jorge-site/index.html",
-    "precache-manifest.4248173cd2024a18584b88d3f9d633a0.js": "/Jorge-site/precache-manifest.4248173cd2024a18584b88d3f9d633a0.js",
+    "precache-manifest.84b7a2c8b35658a18d96c3c6499c7812.js": "/Jorge-site/precache-manifest.84b7a2c8b35658a18d96c3c6499c7812.js",
     "service-worker.js": "/Jorge-site/service-worker.js",
     "static/css/main.c8f6f6f7.chunk.css.map": "/Jorge-site/static/css/main.c8f6f6f7.chunk.css.map",
     "static/js/2.26904270.chunk.js.LICENSE.txt": "/Jorge-site/static/js/2.26904270.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9e376f7a.js",
     "static/js/2.26904270.chunk.js",
     "static/css/main.c8f6f6f7.chunk.css",
-    "static/js/main.c2307389.chunk.js"
+    "static/js/main.1ef9427a.chunk.js"
   ]
 }
