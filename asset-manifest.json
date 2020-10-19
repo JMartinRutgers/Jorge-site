@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jorge-site/homepage/static/css/main.c8f6f6f7.chunk.css",
-    "main.js": "/Jorge-site/homepage/static/js/main.25038db7.chunk.js",
-    "main.js.map": "/Jorge-site/homepage/static/js/main.25038db7.chunk.js.map",
-    "runtime-main.js": "/Jorge-site/homepage/static/js/runtime-main.15233529.js",
-    "runtime-main.js.map": "/Jorge-site/homepage/static/js/runtime-main.15233529.js.map",
-    "static/js/2.ecd583d3.chunk.js": "/Jorge-site/homepage/static/js/2.ecd583d3.chunk.js",
-    "static/js/2.ecd583d3.chunk.js.map": "/Jorge-site/homepage/static/js/2.ecd583d3.chunk.js.map",
-    "index.html": "/Jorge-site/homepage/index.html",
-    "precache-manifest.0a73cb39b300f12402551c53dbd7363a.js": "/Jorge-site/homepage/precache-manifest.0a73cb39b300f12402551c53dbd7363a.js",
-    "service-worker.js": "/Jorge-site/homepage/service-worker.js",
-    "static/css/main.c8f6f6f7.chunk.css.map": "/Jorge-site/homepage/static/css/main.c8f6f6f7.chunk.css.map",
-    "static/js/2.ecd583d3.chunk.js.LICENSE.txt": "/Jorge-site/homepage/static/js/2.ecd583d3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Jorge-site/homepage/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Jorge-site/Home/static/css/main.c8f6f6f7.chunk.css",
+    "main.js": "/Jorge-site/Home/static/js/main.1ef4b10d.chunk.js",
+    "main.js.map": "/Jorge-site/Home/static/js/main.1ef4b10d.chunk.js.map",
+    "runtime-main.js": "/Jorge-site/Home/static/js/runtime-main.58cb15f2.js",
+    "runtime-main.js.map": "/Jorge-site/Home/static/js/runtime-main.58cb15f2.js.map",
+    "static/js/2.ecd583d3.chunk.js": "/Jorge-site/Home/static/js/2.ecd583d3.chunk.js",
+    "static/js/2.ecd583d3.chunk.js.map": "/Jorge-site/Home/static/js/2.ecd583d3.chunk.js.map",
+    "index.html": "/Jorge-site/Home/index.html",
+    "precache-manifest.f699038e0d399679e78bc30ff0846ecd.js": "/Jorge-site/Home/precache-manifest.f699038e0d399679e78bc30ff0846ecd.js",
+    "service-worker.js": "/Jorge-site/Home/service-worker.js",
+    "static/css/main.c8f6f6f7.chunk.css.map": "/Jorge-site/Home/static/css/main.c8f6f6f7.chunk.css.map",
+    "static/js/2.ecd583d3.chunk.js.LICENSE.txt": "/Jorge-site/Home/static/js/2.ecd583d3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Jorge-site/Home/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15233529.js",
+    "static/js/runtime-main.58cb15f2.js",
     "static/js/2.ecd583d3.chunk.js",
     "static/css/main.c8f6f6f7.chunk.css",
-    "static/js/main.25038db7.chunk.js"
+    "static/js/main.1ef4b10d.chunk.js"
   ]
 }
